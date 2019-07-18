@@ -42,19 +42,19 @@ weighted mean of distances to five Boston employment centres.
 ### rad
 index of accessibility to radial highways.
 
-tax
+### tax
 full-value property-tax rate per $10,000.
 
-ptratio
+### ptratio
 pupil-teacher ratio by town.
 
-black
+### black
 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town.
 
-lstat
+### lstat
 lower status of the population (percent).
 
-medv
+### medv
 median value of owner-occupied homes in $1000s.
 
 Source
