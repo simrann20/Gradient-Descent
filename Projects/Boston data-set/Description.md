@@ -6,21 +6,25 @@ Housing Values in Suburbs of Boston
 
 The medv variable is the target variable.
 
-##Data description
+# Data description
 The Boston data frame has 506 rows and 14 columns.
 
 This data frame contains the following columns:
 
-#crim
+# crim
+
 per capita crime rate by town.
 
-#zn
+# zn
+
 proportion of residential land zoned for lots over 25,000 sq.ft.
 
-#indus
+# indus
+
 proportion of non-retail business acres per town.
 
-#chas
+# chas
+
 Charles River dummy variable (= 1 if tract bounds river; 0 otherwise).
 
 #nox
