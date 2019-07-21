@@ -1,6 +1,6 @@
 #COMBINED CYCLE POWER PLANT DATA SET
 
-Description:-
+##Description:-
 
 
 The dataset contains 9568 data points collected from a Combined Cycle Power Plant over 6 years (2006-2011), when the power plant was set to work with full load. Features consist of hourly average ambient variables Temperature (T), Ambient Pressure (AP), Relative Humidity (RH) and Exhaust Vacuum (V) to predict the net hourly electrical energy output (EP)  of the plant.
@@ -10,7 +10,7 @@ A combined cycle power plant (CCPP) is composed of gas turbines (GT), steam turb
 
 For comparability with our baseline studies, and to allow 5x2 fold statistical tests be carried out, we provide the data shuffled five times. For each shuffling 2-fold CV is carried out and the resulting 10 measurements are used for statistical testing.
 
-Attribute Information:
+###Attribute Information:
 
 Features consist of hourly average ambient variables 
 - Temperature (T) in the range 1.81Â°C and 37.11Â°C,
