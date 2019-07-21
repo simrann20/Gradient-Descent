@@ -9,3 +9,13 @@ A combined cycle power plant (CCPP) is composed of gas turbines (GT), steam turb
 
 
 For comparability with our baseline studies, and to allow 5x2 fold statistical tests be carried out, we provide the data shuffled five times. For each shuffling 2-fold CV is carried out and the resulting 10 measurements are used for statistical testing.
+
+Attribute Information:
+
+Features consist of hourly average ambient variables 
+- Temperature (T) in the range 1.81Â°C and 37.11Â°C,
+- Ambient Pressure (AP) in the range 992.89-1033.30 milibar,
+- Relative Humidity (RH) in the range 25.56% to 100.16%
+- Exhaust Vacuum (V) in the range 25.36-81.56 cm Hg
+- Net hourly electrical energy output (EP) 420.26-495.76 MW
+The averages are taken from various sensors located around the plant that record the ambient variables every second. The variables are given without normalization.
